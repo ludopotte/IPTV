@@ -1,4 +1,4 @@
 # IPTV
 PAGE GITHUB DE SERVICES IPTV
 
-SERVICES IPTV A CONSULTER RUBRIQUE "RELEASES" OU AU https://github.com/ludopotte/IPTV/releases
+SERVICES IPTV A CONSULTER AU https://github.com/ludopotte/IPTV/releases
